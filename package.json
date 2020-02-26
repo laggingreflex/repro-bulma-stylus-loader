@@ -1,0 +1,23 @@
+{
+  "name": "repro-bulma-stylus-loader",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack"
+  },
+  "repository": "laggingreflex/repro-bulma-stylus-loader",
+  "dependencies": {
+    "bulma": "^0.8.0",
+    "bulma-stylus": "^0.8.1-rc.2",
+    "css-loader": "^3.4.2",
+    "nib": "^1.1.2",
+    "style-loader": "^1.1.3",
+    "stylus": "^0.54.7",
+    "stylus-loader": "^3.0.2",
+    "webpack": "^4.41.6"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.11"
+  }
+}
